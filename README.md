@@ -1,4 +1,4 @@
-# 🔧 Embedded Systems - 8051 Microcontroller Projects
+# Embedded Systems - 8051 Microcontroller Projects
 **Gaukhar Assyrzhanova** | IIoT-2401 | Astana IT University
 
 A collection of embedded systems lab projects developed using **Assembly** and **C** for the AT89S52 (8051-family) microcontroller. All circuits were designed and simulated in **NI Multisim**, with code compiled and debugged in **Keil µVision IDE**.
@@ -53,11 +53,13 @@ A collection of embedded systems lab projects developed using **Assembly** and *
 
 **Circuit:** AT89S52 · LED (pull-up, 200Ω) · Pushbutton switch · Oscilloscope (XSC1)
 
+**Demo:** [▶ Watch Multisim Simulation](https://youtu.be/YsiZhZ3mupI)
+
 ---
 
 ### Lab 3 - 8-Bit Binary Up-Counter with LED Array
 **Files:** `Lab3.asm`, `Lab3.hex`
-**Demo:** `Lab3_Vid_Multisim.mp4` ← simulation video
+**Demo:** [▶ Watch Multisim Simulation](https://youtu.be/ZrLLNn7S1Ms)
 
 **What it does:**
 - Continuously counts from `0x00` to `0xFF` (0–255) and wraps back to 0
@@ -95,6 +97,8 @@ P2.0 → Segment DP (unused)
 
 **Circuit:** AT89S52 · Common Anode 7-seg display · DIP switch array · 200Ω resistors
 
+**Demo:** [▶ Watch Multisim Simulation](https://youtu.be/9EHWQwk28E4)
+
 ---
 
 ## 📊 Skills Demonstrated
@@ -109,7 +113,7 @@ P2.0 → Segment DP (unused)
 
 ## 👩‍💻 About
 **Gaukhar Assyrzhanova**
-Industrial Engineering (IIoT) Student — Astana IT University\
+Industrial Engineering (IIoT) Student — Astana IT University
 
 Academic Mobility: Hochschule Schmalkalden, Germany (2025)
 
