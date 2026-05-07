@@ -109,7 +109,8 @@ P2.0 → Segment DP (unused)
 
 ## 👩‍💻 About
 **Gaukhar Assyrzhanova**
-Industrial Engineering (IIoT) Student — Astana IT University
+Industrial Engineering (IIoT) Student — Astana IT University\
+
 Academic Mobility: Hochschule Schmalkalden, Germany (2025)
 
 📧 gokass111@gmail.com
