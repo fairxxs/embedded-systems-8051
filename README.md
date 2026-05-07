@@ -20,7 +20,7 @@ A collection of embedded systems lab projects developed using **Assembly** and *
 
 ---
 
-### Lab 1 — Basic Assembly & Memory Operations
+### Lab 1 - Basic Assembly & Memory Operations
 **File:** `Lab1.asm`
 
 **What it does:**
@@ -35,16 +35,16 @@ A collection of embedded systems lab projects developed using **Assembly** and *
 
 ---
 
-### Lab 2 — LED Control & Switch Input (I/O Port Programming)
+### Lab 2 - LED Control & Switch Input (I/O Port Programming)
 **Files:** `Lab2Ex1.asm`, `Lab2Ex2.asm`
 
-**Exercise 1 — LED Blinking:**
+**Exercise 1 - LED Blinking:**
 - Toggles P2.7 between HIGH and LOW to blink an LED
 - Implements a software delay subroutine using `DJNZ` instruction
 - Delay calculated for 11.0592 MHz crystal: ~0.557 ms per call
 - Verified with Keil port window + Multisim oscilloscope (square wave observed)
 
-**Exercise 2 — Switch-Controlled LED:**
+**Exercise 2 - Switch-Controlled LED:**
 - Reads input from a pushbutton switch on P1.0
 - Transfers switch state to LED output on P2.7
 - Demonstrates basic real-time I/O interaction on 8051
@@ -55,7 +55,7 @@ A collection of embedded systems lab projects developed using **Assembly** and *
 
 ---
 
-### Lab 3 — 8-Bit Binary Up-Counter with LED Array
+### Lab 3 - 8-Bit Binary Up-Counter with LED Array
 **Files:** `Lab3.asm`, `Lab3.hex`
 **Demo:** `Lab3_Vid_Multisim.mp4` ← simulation video
 
@@ -71,7 +71,7 @@ A collection of embedded systems lab projects developed using **Assembly** and *
 
 ---
 
-### Lab 4 — 7-Segment Display Decoder in C
+### Lab 4 - 7-Segment Display Decoder in C
 **File:** `Lab4Ex1_Gaukhar.c`, `Lab4Ex1_Gaukhar.hex`
 
 **What it does:**
