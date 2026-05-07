@@ -8,7 +8,7 @@ A collection of embedded systems lab projects developed using **Assembly** and *
 ## 🛠 Tools & Technologies
 | Tool | Purpose |
 |------|---------|
-| Keil µVision | IDE — code writing, compilation, debugging |
+| Keil µVision | IDE - code writing, compilation, debugging |
 | NI Multisim | Circuit design & hardware simulation |
 | AT89S52 (8051) | Target microcontroller |
 | Assembly (8051) | Low-level programming (Labs 1–3) |
