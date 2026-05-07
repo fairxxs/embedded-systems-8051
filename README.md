@@ -1,4 +1,4 @@
-# 🔧 Embedded Systems — 8051 Microcontroller Projects
+# 🔧 Embedded Systems - 8051 Microcontroller Projects
 **Gaukhar Assyrzhanova** | IIoT-2401 | Astana IT University
 
 A collection of embedded systems lab projects developed using **Assembly** and **C** for the AT89S52 (8051-family) microcontroller. All circuits were designed and simulated in **NI Multisim**, with code compiled and debugged in **Keil µVision IDE**.
